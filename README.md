@@ -1,4 +1,4 @@
-# Node.js + TypeScript + Cloudinary Backend Setup
+# 🧠 Node.js + TypeScript + Cloudinary Backend Setup
 
 This repository provides a simple backend setup using Node.js, TypeScript, and Cloudinary for image and file uploads.
 
